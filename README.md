@@ -1,6 +1,6 @@
 # Web Developement UI Layouts
 
-## In this section I have created many different staic applications using HTML, CSS and JavaScript. which can be used as mainframe for designing and developing website.
+## In this section I have created many different static applications using HTML, CSS and JavaScript. which can be used as wireframe for designing and developing website.
 
 ## Activity 1 :: Portfolio
 
