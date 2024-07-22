@@ -7,3 +7,7 @@
 ## Activity 2 :: Play Rock-Paper-Scissors Game
 
 ## Activity 3 :: Employee Payroll Tracker
+
+## Activity 4 :: To-do Tracker
+
+## Activity 5 :: Personal-blog
